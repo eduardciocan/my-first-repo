@@ -2,4 +2,4 @@ To Do list
 
 • First one
 • Second one
-• Third one
+• Third one.
